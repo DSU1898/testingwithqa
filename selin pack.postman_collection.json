@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "28d1dfd4-b528-4791-b975-b1589a859431",
+		"name": "selin pack",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "pack pack",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
